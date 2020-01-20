@@ -1,0 +1,6 @@
+Write program to convert currency from euros to dollars
+prompt for value in euros
+prompt for exchange rate to dollars
+print out the value in dollars
+Then
+Build a dictionary of conversion rates and prompt for the countries instead of the rates
